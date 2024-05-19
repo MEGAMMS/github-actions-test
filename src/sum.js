@@ -1,6 +1,6 @@
 // src/sum.js
 function sum(a, b) {
-    return a + b + 1;
+    return a + b;
 }
 
 export default sum;
